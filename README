@@ -1,0 +1,8 @@
+Example showing that exceptions throws by comet-ajax requests do not abort the ajax-request
+
+fire up like this:
+
+mvn tomcat:run
+
+Point browser to http://localhost:8080/
+This file was modified by IntelliJ IDEA 11.0 for binding GitHub repository
